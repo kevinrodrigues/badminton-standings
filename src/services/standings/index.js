@@ -23,7 +23,7 @@ export default {
             ave: 0,
           },
           {
-            player: 'Rajeve',
+            player: 'Rajeev',
             played: 43,
             won: 18,
             lost: 25,
