@@ -4,9 +4,9 @@
       <div class="github-cta">
         <a
           class="github-button"
-          href="#"
+          href="https://github.com/kevinrodrigues/badminton-standings"
           data-icon="octicon-star"
-          aria-label="Star kevinrodrigues/thursday-night-football-league on GitHub">
+          aria-label="Star kevinrodrigues/badminton-league on GitHub">
           Star
       </a>
       </div>
