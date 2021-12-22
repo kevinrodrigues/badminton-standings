@@ -160,10 +160,8 @@ export default {
   },
 
   mounted() {
-    console.log(this.$route.params.day);
     this.getLeagueStandings(this.$route.params.day);
     this.getCalculatedStandings();
-    // this.shouldShowPricesModal();
   },
 
   methods: {
